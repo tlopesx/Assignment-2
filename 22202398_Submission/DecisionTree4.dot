@@ -34,7 +34,7 @@ edge [fontname="helvetica"] ;
 13 -> 15 ;
 16 [label="hosp_tf <= 0.5\ngini = 0.432\nsamples = 8147\nvalue = [2573, 5574]"] ;
 0 -> 16 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
-17 [label="people_vaccinated <= 0.161\ngini = 0.49\nsamples = 3241\nvalue = [1855, 1386]"] ;
+17 [label="case_month <= 0.368\ngini = 0.49\nsamples = 3241\nvalue = [1855, 1386]"] ;
 16 -> 17 ;
 18 [label="symptomatic_tf <= 0.5\ngini = 0.474\nsamples = 1535\nvalue = [594, 941]"] ;
 17 -> 18 ;
