@@ -4,8 +4,8 @@
 This repository contains the work of a team project aimed at developing predictive models for COVID-19 outcomes. The project makes use of a dataset collected by the CDC and utilizes different machine learning algorithms to predict the mortality outcome ('death_yn') for each patient.
 
 ## Team Members
-- Tania Lopes - Data Preparation and Random Forest Model Lead
-- [Other student (GitHub link)] - Linear and Logistic Regression Model Lead
+- Tania Lopes - Data Preparation, Random Forest Model, and Optimization Lead
+- [Emma Cassar Torreggiani](https://github.com/Da-Em-Dawg) - Linear and Logistic Regression Model Lead
 
 ## Features
 ### Overview
